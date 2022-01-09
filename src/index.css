@@ -11,3 +11,61 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.image1{
+  margin-left: 50px;
+  margin-top: 20px;
+  clip-path: circle();
+  float: right;
+}
+
+.like-social {
+  margin-bottom:20px;
+  text-align: center;
+  
+}
+
+
+.like-social1 {
+  margin-bottom:20px;
+  text-align: center;
+  
+}
+button{
+  background: none;
+	color: inherit;
+	border: none;
+	padding: 0;
+	font: inherit;
+	cursor: pointer;
+	outline: inherit;
+}
+.b1,.b2{
+ margin-left: 50px;
+}
+
+.myButton,.comment{
+  color: rgb(52, 85, 231);
+  font-size: 18px;
+  margin-top: 22px;
+  margin-left: -20px;
+}
+
+.myButton1{
+  color: rgb(52, 85, 231);
+  font-size: 18px;
+  margin-left: -120px;
+  margin-top: 22px;
+}
+.open_video_likes_count1{
+  margin-left: -50px;
+  color:#8e9292;
+   font-family:Verdana, Geneva, Tahoma, sans-serif;
+   font-size: 14px;
+   margin-top: 15px;
+}
+.open_video_likes_count{
+  color:#8e9292;
+   font-family:Verdana, Geneva, Tahoma, sans-serif;
+   font-size: 14px;
+   margin-top: 15px;
+}
