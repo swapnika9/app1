@@ -69,3 +69,12 @@ button{
    font-size: 14px;
    margin-top: 15px;
 }
+.container{
+  position: relative;
+}
+.card{
+  position: absolute;
+top: 50%;
+left: 20%;
+right: 20%;
+}
